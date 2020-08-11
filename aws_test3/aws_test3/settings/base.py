@@ -25,7 +25,7 @@ environ.Env.read_env(env_file=environ_path)
 SECRET_KEY = '%4!7k8&etwbszxnha2-an=49*@3=1)1j*oa!w_84pj=b8mnp7*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
